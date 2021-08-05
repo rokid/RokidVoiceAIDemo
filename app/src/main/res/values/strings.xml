@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RokidVoiceAIDemo</string>
+    <string name="start_dialogue">开始对话</string>
+    <string name="end_dialogue">结束对话</string>
+</resources>
